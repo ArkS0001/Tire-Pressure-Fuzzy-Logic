@@ -1,6 +1,9 @@
 # Tire-Pressure-Fuzzy-Logic
 TPFL
 
+![Screenshot 2025-02-20 at 20-12-07 Grok _ X](https://github.com/user-attachments/assets/994e403f-88e3-46cf-b407-ca2c4292f9d0)
+
+
 
 Fuzzy logic is a fascinating approach to handling imprecise or uncertain data, and it’s been applied to tire pressure monitoring systems in cars to improve safety, fuel efficiency, and tire longevity. Let me break it down for you.
 What is Fuzzy Logic?
